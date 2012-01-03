@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-chicago
 Version:	20081225
-Release:	1
+Release:	2
 Summary:	A "Chicago" bibliography style
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/biblio/bibtex/contrib/chicago
