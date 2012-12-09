@@ -45,3 +45,16 @@ was derived from the newapa style.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar bibtex tex %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Tue Jan 03 2012 Paulo Andrade <pcpa@mandriva.com.br> 20081225-2
++ Revision: 750157
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20081225-1
++ Revision: 718053
+- texlive-chicago
+- texlive-chicago
+- texlive-chicago
+
