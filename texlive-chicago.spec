@@ -5,7 +5,7 @@
 # catalog-license other-free
 # catalog-version undef
 Name:		texlive-chicago
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	A "Chicago" bibliography style
 Group:		Publishing
