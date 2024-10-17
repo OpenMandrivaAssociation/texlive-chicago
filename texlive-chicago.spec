@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	A "Chicago" bibliography style
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/biblio/bibtex/contrib/chicago
+URL:		https://www.ctan.org/tex-archive/biblio/bibtex/contrib/chicago
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chicago.r%{version}.tar.xz
 BuildArch:	noarch
